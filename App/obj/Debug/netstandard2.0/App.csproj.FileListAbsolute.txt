@@ -1,0 +1,12 @@
+C:\Users\guilherme\source\repos\App\App\bin\Debug\netstandard2.0\App.deps.json
+C:\Users\guilherme\source\repos\App\App\bin\Debug\netstandard2.0\App.dll
+C:\Users\guilherme\source\repos\App\App\obj\Debug\netstandard2.0\App.csprojAssemblyReference.cache
+C:\Users\guilherme\source\repos\App\App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\guilherme\source\repos\App\App\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\guilherme\source\repos\App\App\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\guilherme\source\repos\App\App\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\guilherme\source\repos\App\App\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\guilherme\source\repos\App\App\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\guilherme\source\repos\App\App\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\guilherme\source\repos\App\App\obj\Debug\netstandard2.0\App.AssemblyInfoInputs.cache
+C:\Users\guilherme\source\repos\App\App\obj\Debug\netstandard2.0\App.AssemblyInfo.cs
